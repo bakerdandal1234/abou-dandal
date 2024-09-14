@@ -39,6 +39,10 @@
     "productRating": {
       "type": "decimal",
       "required": true
+    },
+     "productPrice": {
+      "type": "string",
+      "required": true
     }
   }
 }
